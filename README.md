@@ -1,0 +1,2 @@
+# Proyek-Analisis-Data-Optimasi-Operasional-Strategi-Retail-Warmindo
+Proyek ini bertujuan untuk mentransformasi data transaksi mentah menjadi wawasan bisnis yng strategis utk usaha retail makanan (Warmindo). Dgn menggunakan pendekatan ETL (Extract, Transform, Load), pryk ini mengolah lebih dr 1.900 baris data untk mengidentifikasi pola pembelian pelanggan, efisiensi operasional, dn peluang peningkatan profit margin.
